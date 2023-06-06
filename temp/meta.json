@@ -1,0 +1,1 @@
+{"segments":[{"segmentId":"01H0SCE35XNQNJ4T0H3VWCQ54V","maxDoc":2,"deletes":null}],"schema":{"fields":[{"id":0,"name":"poet","fieldType":"text","analyzer":"en_stem"},{"id":1,"name":"content","fieldType":"text","analyzer":"en_stem"}]},"opstamp":3}
